@@ -3,6 +3,10 @@ layout: default
 ---
 <div class="home">
   {{ content }}
+  <head> 
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+  </head>
+    
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -12,7 +16,7 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <ul class="post-list">
-      <link rel="shortcut icon" type="image/png" href="/favicon.png">
+      
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
