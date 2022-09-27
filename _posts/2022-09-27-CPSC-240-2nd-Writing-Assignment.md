@@ -26,7 +26,7 @@
 		formatting from limiting functionality regardless of group size. I 
 		generally also adhere to a max horizontal length in a given buffer
 		which makes my code easy to read regardless of the screen size I'm 
-		working with.
+		working with.<br /><br />
 
 	3) Is there any downside to coding conventions?<br />
 
@@ -41,10 +41,10 @@
 	4) What are the areas addressed in the Google guide that you are most surprised are specified?<br />
 
 		horizontal alignment not being required and emphasis on commented empty functions is 
-		surprising.<br />
+		surprising.<br /><br />
 
 		I suppose the alignment thing makes sense as it is generally a time sink and 
-		may cause errors along the way.<br />
+		may cause errors along the way.<br /><br />
 
 		The empty/not in use fns being commented well is cool to see, actually. I 
 		often times find kaggle notebooks and github sources sometimes include
@@ -58,7 +58,7 @@
 		me until I made everything conform to PEP8 (python) but eventually removed it.
 		It also worked with Java as I had a formatter setup for it as well.
 		In truth, I need to set another one up that is less painful to the eyes
-		as I don't mean to re-invent the wheel.<br />
+		as I don't mean to re-invent the wheel.<br /><br />
 
 		One main standard I don't meet consistently is the javadoc or 
 		docstrings for every function in python. I am actively trying to 
