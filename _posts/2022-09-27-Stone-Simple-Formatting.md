@@ -35,22 +35,11 @@ tag :
   <p>"Could hold a key quote from a paper that I am reviewing" ~ Clark</p>
 </blockquote>
 
-<ol>
 <ul>
   <li>John Carmack is a pretty cool character.
     <ul>
    <li><strong>Takakai (romanization)</strong>(<code class="language-plaintext highlighter-rouge">Fight</code>)[src # = Jaeger] <li><strong>Tatakai(Work Hard, Sleep Well)</strong> : these example texts are pseudo random, that's also not what tatakai means lol</li>
+   <li>Dross Chatbot Using Text Transcripts + HF pretrained model</li> 
+   <li>Dross Sequencer; should ironically be mostly NLP techniques w/ maybe a transformer if I want to rotate to a more point cloud approach</li>
   </li>
 </ul>
-</ol>
-
-
-<h2 id="3. Mini Goals Updates Section">3. Mini Goal Updates </h2>
----
-
-<ol>
-<lul>
-<li>Dross Chatbot Using Text Transcripts + HF pretrained model</li> 
-<li>Dross Sequencer; should ironically be mostly NLP techniques w/ maybe a transformer if I want to rotate to a more point cloud approach</li>
-</ul>
-</ol>
