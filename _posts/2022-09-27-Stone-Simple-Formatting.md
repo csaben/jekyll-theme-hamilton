@@ -45,7 +45,7 @@ tag :
 </ol>
 
 
-<h2> 3. Mini Goal Updates </h2>
+<h2 id="3. Mini Goals Updates Section">3. Mini Goal Updates </h2>
 
 ---
 <ul>
