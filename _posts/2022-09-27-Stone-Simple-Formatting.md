@@ -17,7 +17,6 @@ tag :
 </ol>
 
 <h2 id="2-Cleaner Headers">2. Cleaner Header Separation</h2>
-
 ---
 
 <h3 id="2-1 Sub Header example">2-1. sweet, sub headers?</h3>
@@ -33,7 +32,6 @@ tag :
 
 <h3 id="sub sub header example">2-2. arara, sub sub headers??</h3>
 
----
 <blockquote>
   <p>"Could hold a key quote from a paper that I am reviewing" ~ Clark</p>
 </blockquote>
@@ -44,6 +42,7 @@ tag :
    <li><strong>Takakai (romanization)</strong>(<code class="language-plaintext highlighter-rouge">Fight</code>)[src # = Jaeger] <li><strong>Tatakai(Work Hard, Sleep Well)</strong> : these example texts are pseudo random, that's also not what tatakai means lol</li>
   </li>
 </ul>
+</ol>
 
 
 <h2> 3. Mini Goal Updates </h2>
