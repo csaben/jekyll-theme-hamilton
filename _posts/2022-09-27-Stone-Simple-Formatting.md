@@ -21,7 +21,6 @@ tag :
 
 <h3 id="2-1 Sub Header example">2-1. sweet, sub headers?</h3>
 
-<ol>
 <p>this text is lipsum equiv. <strong>Lorem Ipsum</strong>(<code class="language-plaintext highlighter-rouge">common space filler text</code>).</p>
 
 <ul>
@@ -42,7 +41,6 @@ tag :
    <li><strong>Takakai (romanization)</strong>(<code class="language-plaintext highlighter-rouge">Fight</code>)[src # = Jaeger] <li><strong>Tatakai(Work Hard, Sleep Well)</strong> : these example texts are pseudo random, that's also not what tatakai means lol</li>
   </li>
 </ul>
-</ol>
 
 
 <h2 id="3. Mini Goals Updates Section">3. Mini Goal Updates </h2>
